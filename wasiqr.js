@@ -59,20 +59,27 @@ router.get('/', async (req, res) => {
 				   let session = await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id, { text: '' + b64data });
 	
 				   let WASI_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃Muller-MD SESSION IS 
-┃SUCCESSFULLY
-┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
+*_Session Connected By SFT MULLER_*
+*_Made With 🤍_*
+
+______________________________________
+╔════◇
+║ *『AMAZING YOU'VE CHOSEN MULLER MD』*
+║ _You Have Completed the First Step to Deploy a Whatsapp Bot._
+╚════════════════════════╝
+╔═════◇
+║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
+║❒ *Ytube:* _youtube.com/@sftmuller
+║❒ *Owner:* _https://wa.me/qr/ITZK4RCT4XWGG1
+║❒ *Repo:* _https://github.com/Mrabdul13/Muller-MD_
+║❒ *WaGroup:* _https://chat.whatsapp.com/DYPqiPgZOX9JvmrgwnOl9P
+║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaFT2CSCRs1urRZGea1B
+║❒ *Plugins:* _https://github.com/Mrabdul13 
+╚════════════════════════╝
+_____________________________________
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 SFT MULLER 𖥘
+ || Creator = 𖥘 SFT MULLER 2024-2099𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaFT2CSCRs1urRZGea1B
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/softwaremuller 👈
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 SFT MULLER*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
